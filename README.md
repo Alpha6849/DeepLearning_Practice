@@ -16,7 +16,7 @@ Each part builds upon the previous one, introducing new TensorFlow and Keras con
 | **Part 5** | Data Augmentation | Image transformations, preventing overfitting |
 | **Part 6** | Model Saving & Checkpointing | `.h5`, `.weights.h5`, `.keras`, checkpoints |
 | **Part 7** | Model APIs | Sequential, Functional, and Subclassing APIs |
-| **Part 8** | Transfer Learning | MobileNetV2, feature extraction, fine-tuning |
+| **Part 8** | Transfer Learning | MobileNetV2 (achieved >85% accuracy) , feature extraction, fine-tuning |
 
 ---
 
@@ -25,6 +25,6 @@ Each part builds upon the previous one, introducing new TensorFlow and Keras con
 - **Language:** Python 3.x  
 - **Framework:** TensorFlow / Keras  
 - **Libraries:** NumPy, Pandas, Matplotlib, scikit-learn  
-- **Environment:** Jupyter Notebook / Google Colab  
+- **Environment:** Jupyter Notebook  
 
 
