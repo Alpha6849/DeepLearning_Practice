@@ -1,6 +1,6 @@
 #  Deep Learning Projects — From Scratch to Transfer Learning
 
-This repository documents a complete **Deep Learning learning journey**, covering everything from basic neural networks to advanced **Transfer Learning** using pre-trained CNNs.  
+This repository documents a complete **Deep Learning introductory concepts**, covering everything from basic neural networks to advanced **Transfer Learning** using pre-trained CNNs.  
 Each part builds upon the previous one, introducing new TensorFlow and Keras concepts through hands-on experiments and well-structured notebooks.
 
 ---
